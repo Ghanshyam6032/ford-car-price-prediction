@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+streamlit
+pandas
+requests
+matplotlib
+scikit-learn
+joblib
